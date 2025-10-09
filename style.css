@@ -7,13 +7,6 @@ body {
     line-height: 1.6;
 }
 
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem 0;
-    text-align: center;
-}
-
 h1 {
     margin: 0;
 }
@@ -50,10 +43,3 @@ main {
     color: #555;
 }
 
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #333;
-    color: #fff;
-    margin-top: 30px;
-}
